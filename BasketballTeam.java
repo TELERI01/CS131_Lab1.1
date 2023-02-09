@@ -1,4 +1,3 @@
-package Lab1_2;
 /**
 *@author Tyler Lericos
 *@version 1.0
